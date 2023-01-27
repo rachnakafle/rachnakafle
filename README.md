@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachnakafle
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Js, Angular, ASP.NET MVC and many more that interests me.
+- 🌱 I’m currently learning Js, Angular, ASP.NET and many more that interests me.
 - 💞️ I’m looking to collaborate on doing live projects.
 - 📫 You can reach me through my linkedin profile and its link is https://www.linkedin.com/in/rachana-kafle-155b071a1/
 
