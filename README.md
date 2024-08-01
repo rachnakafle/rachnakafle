@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachnakafle
-- 👀 I’m interested in Web Development, Data Analysis & Data Science.
+- 👀 I’m interested in Data Analysis.
 - 💞️ I’m looking to collaborate on doing live projects.
 - 📫 You can reach me through my linkedin profile and its link is https://www.linkedin.com/in/rachana-kafle-155b071a1/
 
